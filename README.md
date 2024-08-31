@@ -1,6 +1,6 @@
 ## Malaria Detection
 
-####The Context:
+###The Context:
 Malaria is a life-threatening disease caused by Plasmodium parasites and early detection is crucial for effective treatment.
 Accurate and timely diagnosis can significantly reduce mortality rates especially in regions with limited medical resources.
 ####The Problem Formulation:
